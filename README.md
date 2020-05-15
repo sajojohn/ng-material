@@ -1,2 +1,0 @@
-# ng-material
-Angular Material
